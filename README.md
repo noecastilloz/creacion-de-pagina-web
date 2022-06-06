@@ -48,9 +48,12 @@ Una vez seleccionado la app de WordPress nos aparece otra página y estando ahí
 Estando en creación de WordPress App Service, llenamos los campos obligatorios.
 
 1.- suscripción: Se deja por default ya que depende del tipo de suscripción que tengamos.
+
 2.- Grupo de recursos: En esta opción seleccionamos en **crear nuevo** y le asignamos un nombre para identificarlo.
+
 3.- Región: Esta hace referencia a que servidor nos vamos a conectar en mi caso funciono con East US por el tipo de cuenta que tengo (estudiante).
-4.- Detalle de instancia: Aquí le agregamos un nombre que se va a asociar a una dirección web en este caso dentro de Azure, el sistema operativo lo dejamos por default (Windows)
+
+4.- Detalle de instancia: Aquí le agregamos un nombre que se va a asociar a una dirección web en este caso dentro de Azure, el sistema operativo lo dejamos por default (Windows).
 
 ![](https://github.com/noecastilloz/creacion-de-pagina-web/blob/main/imagenes/Azure%20WordPress.jpg)
 
