@@ -1,6 +1,6 @@
 #Como crear una página con Azure y WordPress
 
-![]()
+![](https://github.com/noecastilloz/creacion-de-pagina-web/blob/main/imagenes/logo%20de%20azure.jpg)![](https://github.com/noecastilloz/creacion-de-pagina-web/blob/main/imagenes/logo%20de%20wordpress.png)
 
 Requisitos
 
@@ -14,9 +14,9 @@ Crear una cuenta en la página de [Azure](https://portal.azure.com/).
 #Paso 2
 Una vez creada la cuenta nos logiamos para acceder al portal.
 
-![]([imagenes\Azure login.jpg](https://github.com/noecastilloz/creacion-de-pagina-web/blob/main/imagenes/logo%20de%20azure.jpg))
+![]()
 
-![](https://github.com/noecastilloz/creacion-de-pagina-web/blob/main/imagenes/logo%20de%20wordpress.png)
+![]()
 
 #Paso 3
 Si desea cambiar de color la apariencia del portal puede hacerlo en configuración y seleccionar apariencia y vistas de inicio.
